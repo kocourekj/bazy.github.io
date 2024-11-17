@@ -1,9 +1,9 @@
 
 const sectionImages = {
-    about: 'url("img/mountain.jpg")',
-    projects: 'url("img/mountain2.jpg")',
-    contact: 'url("img/lake.jpg")',
-    tasks: 'url("img/lake2.jpg")'
+    about: 'url("kocourekj.github.io/img/mountain.jpg")',
+    projects: 'url("kocourekj.github.io/img/mountain2.jpg")',
+    contact: 'url("kocourekj.github.io/img/lake.jpg")',
+    tasks: 'url("kocourekj.github.io/img/lake2.jpg")'
 };
 
 // Změna obrázku při posunu nebo kliknutí
